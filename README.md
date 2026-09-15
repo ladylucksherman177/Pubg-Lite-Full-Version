@@ -240,4 +240,4 @@ This repository serves as the official landing page for **PUBG Lite**. The softw
 **Get the most recent version of PUBG Lite today!**
 
 ---
-**Last updated:** 2026-09-15 17:58:50 UTC
+**Last updated:** 2026-09-15 21:12:42 UTC
